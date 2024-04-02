@@ -1,6 +1,6 @@
-### Hello my name is Cauã Grigorio 👋
-  "Future Full Stack Developer"<br>
- --Apaixonado por tecnologia--
+### Hello my name is Cauã Grigorio 👨🏾‍💻
+  "Future Software Engineer "<br>
+ <---- Amante da tecnologia ---->
 
 [![Intragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nauakii?igsh=eW81MTM3N3BiZDYx&utm_source=qr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
