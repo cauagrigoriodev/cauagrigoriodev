@@ -12,7 +12,7 @@
  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauagirgoriodev&layout=compact&hide_border=false&border_color=0A10FF&title_color=008FFFE1&text_color=FAFAFA&bg_color=000000" />
 
 
-<h1>TECNOLOGIAS QUE USO DIARIAMENTE 🖥️ 💻 </h1>
+<h1>TECNOLOGIAS 🖥️ 💻 </h1>
 <div style="display: inline-block;"><br>      
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" >
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" ><br>
